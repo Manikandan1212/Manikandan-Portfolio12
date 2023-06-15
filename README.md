@@ -13,4 +13,4 @@ Highly motivated Data Analyst with 4 Years and 5 months of IT Experience in Data
 
 ### Socials
 
-<p align="left"> <a href="https://www.linkedin.com/in/manikandan-P1212" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/manikandan-p1212/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
